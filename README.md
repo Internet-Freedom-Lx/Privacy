@@ -16,4 +16,4 @@ Information Hubs
 * [/r/privacy Wiki](https://www.reddit.com/r/privacy/wiki/index)
 * [/r/privacy](https://www.reddit.com/r/privacy/) For news - US Centric
 * [/r/europrivacy](https://www.reddit.com/r/europrivacy/) For EU related privacy news
-* [edri newsletters)(https://edri.org/newsletters/) - EDRI-Gram Developments in the Digital Right's Arena
+* [edri newsletters](https://edri.org/newsletters/) - EDRI-Gram Developments in the Digital Right's Arena
